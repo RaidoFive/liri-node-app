@@ -1,0 +1,31 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "most recent tweets",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaidoFive/liri-node-app.git"
+  },
+  "author": "Steve Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaidoFive/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/RaidoFive/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.6",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "liri",
+    "twitter",
+    "spotify",
+    "omdb"
+  ]
+}
